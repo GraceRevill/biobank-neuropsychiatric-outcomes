@@ -6,9 +6,9 @@ This archive contains the R code for the analysis reported in the above study.
 
 This repository contains:
 
-1. Revill_et_al_preprocessing.R - R script to complete data cleaning and preprocessing 
-2. Revill_et_al_tbi_neuro_mh_analysis.R - R script to complete mixed effects models
-3. Revill_et_al_KM_final.R - R script to complete survival modelling (Kaplan-Meier and Cox analyses) 
+1. [Revill_et_al_preprocessing.R](https://github.com/GraceRevill/biobank-neuropsychiatric-outcomes/blob/main/Revill_et_al_preprocessing.R) - R script to complete data cleaning and preprocessing 
+2. [Revill_et_al_tbi_neuro_mh_analysis.R](https://github.com/GraceRevill/biobank-neuropsychiatric-outcomes/blob/main/Revill_et_al_tbi_neuro_mh_analysis.R) - R script to complete mixed effects models
+3. [Revill_et_al_KM_final.R](https://github.com/GraceRevill/biobank-neuropsychiatric-outcomes/blob/main/Revill_et_al_KM_final.R) - R script to complete survival modelling (Kaplan-Meier and Cox analyses) 
 
 # Dataset
 UK Biobank (UKB) is a large, prospective cohort of over 500 000 generally healthy adults aged 40–70 years at recruitment (2006–2010), registered with the UK National Health Service and assessed at one of 22 recruitment centres https://www.ukbiobank.ac.uk/. 
