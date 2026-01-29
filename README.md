@@ -15,26 +15,26 @@ UK Biobank (UKB) is a large, prospective cohort of over 500 000 generally health
 Approval for the current study was granted by the University College London Ethics Committee 
 
 # Platform and package versions
-R language version, and package versions used to generate the results are:
+R language version, and package versions used to generate the results are:<br>
 
-R Version 4.5.1
+R Version 4.5.1<br>
 
-Package version for readr is 2.1.4
-Package version for dplyr is 1.1.2
-Package version for tidyr is 1.3.0
-Package version for ggplot2 is 3.5.2
-Package version for Hmisc is 4.7.2
-Package version for patchwork is 1.1.3
-Package version for lme4 is 1.1.3
-Package version for stringr is 1.5.0
-Package version for reshape2 is 1.1.3
-Package version for gtsummary is 1.7.1
-Package version for gt is 0.9.0
-Package version for afex is 1.3.0
-Package version for lubridate is 1.9.2
-Package version for sjPlot is 2.8.14
-Package version for jtools is 2.2.1
-Package version for purrr is 1.0.1
-Package version for glmmTMB is 1.1.9
-Package version for survminer is 0.5.0
-Package version for gridExtra is 2.3.0
+Package version for readr is 2.1.4<br>
+Package version for dplyr is 1.1.2<br>
+Package version for tidyr is 1.3.0<br>
+Package version for ggplot2 is 3.5.2<br>
+Package version for Hmisc is 4.7.2<br>
+Package version for patchwork is 1.1.3<br>
+Package version for lme4 is 1.1.3<br>
+Package version for stringr is 1.5.0<br>
+Package version for reshape2 is 1.1.3<br>
+Package version for gtsummary is 1.7.1<br>
+Package version for gt is 0.9.0<br>
+Package version for afex is 1.3.0<br>
+Package version for lubridate is 1.9.2<br>
+Package version for sjPlot is 2.8.14<br>
+Package version for jtools is 2.2.1<br>
+Package version for purrr is 1.0.1<br>
+Package version for glmmTMB is 1.1.9<br>
+Package version for survminer is 0.5.0<br>
+Package version for gridExtra is 2.3.0<br>
