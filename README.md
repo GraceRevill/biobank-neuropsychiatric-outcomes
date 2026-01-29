@@ -12,7 +12,9 @@ This repository contains:
 
 # Dataset
 UK Biobank (UKB) is a large, prospective cohort of over 500 000 generally healthy adults aged 40–70 years at recruitment (2006–2010), registered with the UK National Health Service and assessed at one of 22 recruitment centres https://www.ukbiobank.ac.uk/. 
-Approval for the current study was granted by the University College London Ethics Committee 
+Approval for the current study was granted by the University College London Ethics Committee<br> 
+
+Application to access this data: https://www.ukbiobank.ac.uk/use-our-data/apply-for-access/<br>
 
 # Platform and package versions
 R language version, and package versions used to generate the results are:<br>
